@@ -213,7 +213,7 @@ function App() {
               </div>
               <h1 className="text-2xl font-bold header-gradient bg-clip-text text-transparent
                            drop-shadow-[0_2px_4px_rgba(59,130,246,0.4)]">
-                Menti
+                Mentii
               </h1>
             </div>
           </div>
